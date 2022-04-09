@@ -15,10 +15,10 @@
     </properties>
 
     <modules>
+        <module>../algo-trade-domain-models</module>
         <module>../algo-trade-db-service</module>
         <module>../algo-trade-fyres</module>
         <module>../algo-trade-domain-service</module>
-        <module>../algo-trade-domain-models</module>
         <module>../algo-trade-orchestration</module>
         <module>../algo-trade-cassandra-service</module>
         <module>../algo-trade-mock-broker-service</module>
